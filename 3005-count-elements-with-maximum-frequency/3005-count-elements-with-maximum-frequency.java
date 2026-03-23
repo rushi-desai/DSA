@@ -1,3 +1,4 @@
+//this question is easy by hash function
 class Solution {
     public int maxFrequencyElements(int[] nums) {
 
